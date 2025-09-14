@@ -20,7 +20,7 @@ Expo Auth Session for social authentication (Google, Apple)
 Backend
 Node.js with Express
 
-MongoDB (or your database)
+MongoDB 
 
 JWT authentication
 
